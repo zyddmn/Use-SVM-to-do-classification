@@ -3,7 +3,7 @@
 This repository contains the code for both binary and multiclass classification tasks to identify different types of physical activities. The purpose of this project is to accurately classify various physical activities using machine learning algorithms.
 
 # Dataset
-The dataset used in this project contains 7767 objects and 561 variables. It includes measurements related to different physical activities. The dataset is split into training and validation sets.
+The dataset used in this project contains 7767 objects and 561 variables. It includes measurements related to different physical activities. The dataset is split into training and validation sets. The training dataset and test dataset can be found in this [drive](https://drive.google.com/drive/folders/1NBUROBkh3eh2GDQVpcFFmYvjJEM6w-ig?usp=share_link).
 
 # Feature Description 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low-pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low-pass Butterworth filter with a corner frequency of 0.3 Hz. 
